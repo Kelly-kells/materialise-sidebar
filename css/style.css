@@ -8,11 +8,21 @@
         padding-left: 0;
       }
     }
-    #slide-out{
-        background-color: #810000;
-       color: #EEEBDD !important;
+    a:hover {
+        color:gold!important;
+    }
+    .sidenav a, .sidenav .fas, .sidenav .far, .sidenav .material-icons {
+        color: white !important;
+    }
+    #slide-out, nav {
+        background-color: #343F56;
+         
         
     }
-    .fas fa-cube{
-        color: yellow;
+    .logo {
+        margin-left: 10px !important;
     }
+    
+
+    
+    
